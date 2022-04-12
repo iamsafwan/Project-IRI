@@ -4,7 +4,6 @@
 The project was created as a dissertation work for the Bachelor of Technology in Electrical Engineering while I was studying at the Integral University Lucknow.
 
 
-
 **Full source code of the project will be uploaded soon.**
 
 ## The Intelligent Room Interface is powered by
@@ -22,8 +21,11 @@ The project was created as a dissertation work for the Bachelor of Technology in
 - Raspberry Pi 3 B+
 - ESP8266 (NodeMCU)
 
-### Dependencies
-
+**Dependencies:**
+- Mfrc522Lib
+- Windows 10 IoT Extension for the UWP
+- Universal Windows
+- Microsoft.UI.Xaml.Markup
 
 ## Contact
 
