@@ -1,2 +1,30 @@
-# Project-IRI
-Intelligent Room Interface is an Electrical, Electronics, and Internet of Things-based project written in C# to revolutionise Human-Machine Interaction in a room with energy-saving at its core, using sensors and actuators.
+# Welcome to Project IRI :tada: 
+**Intelligent Room Interface Repository**
+
+The project was created as a dissertation work for the Bachelor of Technology in Electrical Engineering while I was studying at the Integral University Lucknow.
+
+
+
+**Full source code of the project will be uploaded soon.**
+
+## The Intelligent Room Interface is powered by
+**Backend:**
+- C#
+- C++
+
+**Frontend:**
+- XAML
+
+**OS:**
+- Windows 10 IoT Core
+
+**Hardware:**
+- Raspberry Pi 3 B+
+- ESP8266 (NodeMCU)
+
+### Dependencies
+
+
+## Contact
+
+Feel free to reach out to me at my 📫 [Personal email](mailto:safwanzk@outlook.com?subject=From%20Github%3A%20Project%20IRI&body=Hi%20Safwan!%0D%0A%0D%0AI%20would%20like%20some%20information%20regarding%20your%20awesome%20Project%20IRI)  for more details about this project. 
